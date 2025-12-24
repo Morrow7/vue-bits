@@ -222,14 +222,8 @@ export const componentMetadata: ComponentMetadata = {
     docsUrl: 'https://vue-bits.dev/text-animations/count-up',
     tags: []
   },
-  'TextAnimations/Shuffle': {
-    videoUrl: '/assets/videos/shuffle.mp4',
-    description: 'A text switching animation where the text appears in a slow and flipping manner.',
-    category: 'TextAnimations',
-    name: 'Shuffle',
-    docsUrl: '',
-    tags: []
-  },
+
+  //! Text Animations -------------------------------------------------------------------------------------------------------------------------------
 
   'TextAnimations/AsciiText': {
     videoUrl: '/assets/videos/asciitext.webm',
